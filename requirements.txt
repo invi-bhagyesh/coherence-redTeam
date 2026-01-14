@@ -1,0 +1,11 @@
+torch>=2.0
+transformers>=4.35
+sentence-transformers
+datasets
+openai
+transformer-lens
+pandas
+numpy
+scikit-learn
+statsmodels
+tqdm
